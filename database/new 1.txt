@@ -1,0 +1,6 @@
+
+
+Database:	danatrungp_trunque
+Host:	localhost
+Username:	danatrungp_trung
+Password:	hEgJFCF8

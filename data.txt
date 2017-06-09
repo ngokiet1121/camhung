@@ -1,0 +1,4 @@
+Database:	camhungs_db2
+Host:	localhost
+Username:	camhungs_db2
+Password:	eNXc11WD3
